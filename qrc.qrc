@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fire.gif</file>
+        <file>red.png</file>
+        <file>fire.mp3</file>
+    </qresource>
+</RCC>
